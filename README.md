@@ -1,0 +1,2 @@
+
+Hello, my name is Cauã Pereira, I'm a student at Unoeste studying Computer Science. Currently, I work as an intern at Unoeste itself, do freelance work, and offer help to people entering the programming field. I excel in problem-solving and algorithm construction. I have expertise in C, Python, Java, and JavaScript, and I also have knowledge in data science and competitive programming. Besides my current studies, I have a technical background in electronics and have completed 16 other courses. Additionally, I'm proficient in English and Portuguese (Brazilian).
